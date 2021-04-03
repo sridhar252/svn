@@ -7,6 +7,11 @@ public class Svn {
 		System.out.println();
 	}
 	
+	public void m2()
+	{
+		
+	}
+	
 	public void m1()
 	{
 		
